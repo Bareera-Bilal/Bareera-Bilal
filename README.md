@@ -36,7 +36,7 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br>
 
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark) <br> <br>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
 ![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br>
 
 
