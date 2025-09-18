@@ -42,7 +42,7 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 | Design & UI/UX | Figma, Responsive Design, UI/UX Principles                             |
 | Dev Tools      | Git, GitHub, VS Code, Postman                         |
 | Learning       | Restful APIs, JWT, OAuth                                 |
-<br> <br> <br>
+
 
 
 
