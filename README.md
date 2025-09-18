@@ -41,6 +41,8 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 | Learning       | Restful APIs, JWT, OAuth                                 |
 
 <br> <br> <br>
+<table> <thead> <tr> <th>💻 Frontend</th> <th>⚙️ Backend</th> <th>🎨 Design & UI/UX</th> <th>🧰 Dev Tools</th> <th>📚 Learning</th> </tr> </thead> <tbody> <tr> <td>HTML5</td> <td>Node.js</td> <td>Figma</td> <td>Git</td> <td>RESTful APIs</td> </tr> <tr> <td>CSS3</td> <td>C#</td> <td>Responsive Design</td> <td>GitHub</td> <td>JWT</td> </tr> <tr> <td>JavaScript</td> <td>ASP.NET Core</td> <td>UI/UX Principles</td> <td>VS Code</td> <td>OAuth</td> </tr> <tr> <td>React</td> <td>SQL</td> <td></td> <td>Postman</td> <td></td> </tr> <tr> <td>Redux</td> <td>MonsterDB</td> <td></td> <td></td> <td></td> </tr> <tr> <td>Tailwind CSS</td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td>Bootstrap</td> <td></td> <td></td> <td></td> <td></td> </tr> </tbody> </table>
+
 
 📊 GitHub Contribution Graph <br> <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
