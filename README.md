@@ -45,6 +45,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <br> <br> <br> 📊 GitHub Contribution Graph <br> <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
+![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bareera-Bilal&theme=radical)
+
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
 ![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
