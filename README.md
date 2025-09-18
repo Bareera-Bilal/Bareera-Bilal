@@ -5,7 +5,7 @@
 I'm a passionate FULL-STACK WEB DEVELOPER and SOFTWARE DEVELOPER from Srinagar, Jammu & Kashmir.  <br>
 Currently pursuing "Bachelor of Computer Applications" and "Diploma in Software Engineering". <br>
 I enjoy building responsive, scalable web applications with a focus on clean logic and sleek design. <br>
-Reach me at:"bareerabilal03@gmail.com" <br> <br> <br>
+CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 
 
 💻 Tech Stack <br> <br>
@@ -51,7 +51,7 @@ Reach me at:"bareerabilal03@gmail.com" <br> <br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
 - 📧 Email: bareerabilal03@gmail.com  <br>
-- 💬 LinkedIn: [www.linkedin.com/in/bareera-bilal03](www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
+- 💬 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bareera_Bilal03-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bareera-bilal03)
 
 
 
