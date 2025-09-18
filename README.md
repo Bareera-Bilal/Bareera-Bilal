@@ -30,35 +30,29 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
 
 🧩📈 GitHub Profile Summary Card <br>
-
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br>
 
 📊 GitHub Contribution Graph <br>
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> 
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br>
 
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
-![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br>
-
-
-
-
-
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark) <br> <br>
+![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br>
 
 
 
 🛠️ GitHub Profile Trophy <br>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br>
 
 
 
 
-🌐 Connect with Me
+🌐 Connect with Me <br>
 
-- 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  
-- 📧 Email: bareerabilal03@gmail.com 
-- 💬 LinkedIn: [linkedin.com/in/bareera](www.linkedin.com/in/bareera-bilal03)
+- 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
+- 📧 Email: bareerabilal03@gmail.com  <br>
+- 💬 LinkedIn: [linkedin.com/in/bareera](www.linkedin.com/in/bareera-bilal03) <br>
 
 
 
