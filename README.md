@@ -26,24 +26,23 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
-
+<br><br><br>
 
 🧩📈 GitHub Profile Summary Card <br>
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br>
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 📊 GitHub Contribution Graph <br>
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br>
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
-![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br>
+![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 
 
 🛠️ GitHub Profile Trophy <br>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br> <br>
 
 
 
@@ -52,7 +51,7 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
 - 📧 Email: bareerabilal03@gmail.com  <br>
-- 💬 LinkedIn: [linkedin.com/in/bareera](www.linkedin.com/in/bareera-bilal03) <br>
+- 💬 LinkedIn: [linkedin.com/in/bareera](www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
 
 
 
