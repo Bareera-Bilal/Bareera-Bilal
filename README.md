@@ -29,18 +29,12 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
 
 
-
-
-📈 GitHub Contribution Graph <br>
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) 
-
-
-📊 GitHub Streak Stats <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
-
-🧩 GitHub Profile Summary Card <br>
+🧩📈 GitHub Profile Summary Card <br>
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br>
+
+📊 GitHub Contribution Graph <br>
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> 
 
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
