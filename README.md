@@ -28,26 +28,15 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 
-📊 GitHub Stats
-
-![Bareera's GitHub Stats](https://github-readme-stats-bareera.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight)
+📊 GitHub Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-bareera.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7)
+ 🧩 GitHub Profile Summary Card
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bareera-Bilal&theme=tokyonight)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark)
 
-
-
-
-
-🔥 GitHub Streak Stats
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
 
 
 
