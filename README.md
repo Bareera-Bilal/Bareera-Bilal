@@ -1,7 +1,7 @@
 ## HELLO WORLD...! THIS IS BAREERA BILAL
 
 
-💻: <br>
+💻: <br> <br>
 I'm a passionate FULL-STACK WEB DEVELOPER and SOFTWARE DEVELOPER from Srinagar, Jammu & Kashmir.  <br>
 Currently pursuing "Bachelor of Computer Applications" and "Diploma in Software Engineering". <br>
 I enjoy building responsive, scalable web applications with a focus on clean logic and sleek design. <br>
@@ -28,10 +28,10 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 <br><br><br>
 
-🧩📈 GitHub Profile Summary Card <br>
+🧩📈 GitHub Profile Summary Card <br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
-📊 GitHub Contribution Graph <br>
+📊 GitHub Contribution Graph <br> <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 
@@ -40,14 +40,14 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
 
 
-🛠️ GitHub Profile Trophy <br>
+🛠️ GitHub Profile Trophy <br> <br>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br> <br>
 
 
 
 
-🌐 Connect with Me <br>
+🌐 Connect with Me <br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
 - 📧 Email: bareerabilal03@gmail.com  <br>
