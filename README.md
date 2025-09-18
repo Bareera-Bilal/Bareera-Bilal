@@ -49,8 +49,6 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 📈 GitHub Contribution Graph
 
 
-[![Bareera's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=tokyonight)](https://github.com/Bareera-Bilal)
-
 
 
 🛠️ GitHub Profile Trophy
