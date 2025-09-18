@@ -28,8 +28,11 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 <br><br><br>
 
+
 🧩📈 GitHub Profile Summary Card <br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
+
+
 
 🛠️ Skills Overview <br> <br>
 | Category       | Technologies & Tools                                                                 |
@@ -39,8 +42,8 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 | Design & UI/UX | Figma, Responsive Design, UI/UX Principles                             |
 | Dev Tools      | Git, GitHub, VS Code, Postman                         |
 | Learning       | Restful APIs, JWT, OAuth                                 |
-
 <br> <br> <br>
+
 
 
 📊 GitHub Contribution Graph <br> <br>
@@ -62,7 +65,7 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
 - 📧 Email: bareerabilal03@gmail.com  <br>
-- 💼 [LinkedIn](https://www.linkedin.com/in/bareera-bilal03) <br> <br>
+- 💼 [LinkedIn](https://www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
 
 
 
