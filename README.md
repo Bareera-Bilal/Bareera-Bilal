@@ -30,8 +30,8 @@ Reach me at:"bareerabilal03@gmail.com"
 
 📊 GitHub Stats
 
+![Bareera's GitHub Stats](https://your-vercel-app.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight)
 
-![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight)
 
 
 
