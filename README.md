@@ -51,7 +51,7 @@ Reach me at:"bareerabilal03@gmail.com" <br> <br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
 - 📧 Email: bareerabilal03@gmail.com  <br>
-- 💬 LinkedIn: [linkedin.com/in/bareera](www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
+- 💬 LinkedIn: [www.linkedin.com/in/bareera-bilal03](www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
 
 
 
