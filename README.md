@@ -32,9 +32,7 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 🧩📈 GitHub Profile Summary Card <br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
-
-
-<br> <br> <br>🛠️ Skills Overview <br> <br>
+🛠️ Skills Overview <br> <br>
 | Category       | Technologies & Tools                                                                 |
 |----------------|--------------------------------------------------------------------------------------|
 | Frontend       | HTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Bootstrap                     |
@@ -44,9 +42,7 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 | Learning       | Restful APIs, JWT, OAuth                                 |
 
 
-
-
-📊 GitHub Contribution Graph <br> <br>
+<br> <br> <br> 📊 GitHub Contribution Graph <br> <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 
