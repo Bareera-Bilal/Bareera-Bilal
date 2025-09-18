@@ -51,7 +51,7 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
 - 📧 Email: bareerabilal03@gmail.com  <br>
-- 💬 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bareera_Bilal03-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bareera-bilal03)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bareera-bilal03) <br> <br>
 
 
 
@@ -61,10 +61,6 @@ Let’s build something meaningful together.
 
 
 
-
- <img src="https://github-readme-stats-bareera.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight" alt="Bareera's GitHub Stats" width="48%"
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight" alt="GitHub Streak" width="48%" 
- <img src="https://github-readme-stats-bareera.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" 
 
 
 
