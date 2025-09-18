@@ -34,7 +34,7 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 
 
 
-🛠️ Skills Overview <br> <br>
+<br> <br> <br>🛠️ Skills Overview <br> <br>
 | Category       | Technologies & Tools                                                                 |
 |----------------|--------------------------------------------------------------------------------------|
 | Frontend       | HTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Bootstrap                     |
