@@ -30,7 +30,16 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
 📊 GitHub Stats
 
-![Bareera's GitHub Stats](https://your-vercel-app.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight)
+![Bareera's GitHub Stats](https://github-readme-stats-bareera.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-bareera.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bareera-Bilal&theme=tokyonight)
+
 
 
 
