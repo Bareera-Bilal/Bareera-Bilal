@@ -30,17 +30,17 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 🧩📈 GitHub Profile Summary Card <br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
-## 🛠️ Skills Overview
+🛠️ Skills Overview <br> <br>
 
 | Category       | Technologies & Tools                                                                 |
 |----------------|--------------------------------------------------------------------------------------|
-| Frontend       | HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Bootstrap                        |
-| Backend        | Node.js, ASP.NET Core, C#, MongoDB, SQL                                              |
-| Design & UI/UX | Figma, Canva, Responsive Design, Accessibility (A11y)                                |
-| Dev Tools      | Git, GitHub, Postman, VS Code, Firebase, Vercel, Netlify                            |
-| Learning       | Docker, TypeScript, Azure, RESTful APIs, JWT, OAuth                                 |
+| Frontend       | HTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Bootstrap                     |
+| Backend        | Node.js, C#, ASP.NET Core, SQL, MonsterDB                                    |
+| Design & UI/UX | Figma, Responsive Design, UI/UX Principles                             |
+| Dev Tools      | Git, GitHub, VS Code, Postman                         |
+| Learning       | Restful APIs, JWT, OAuth                                 |
 
-<br> <br>
+<br> <br> <br>
 
 📊 GitHub Contribution Graph <br> <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
