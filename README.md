@@ -40,7 +40,6 @@ CONNECT WITH ME:"bareerabilal03@gmail.com" <br> <br> <br>
 
 
 🛠️ GitHub Profile Trophy <br> <br>
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br> <br>
 
 
