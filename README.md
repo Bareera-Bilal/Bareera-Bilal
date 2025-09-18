@@ -28,8 +28,6 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 
-📊 GitHub Streak Stats <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
 
 
 
@@ -37,6 +35,8 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) 
 
 
+📊 GitHub Streak Stats <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
 
 🧩 GitHub Profile Summary Card <br>
 
