@@ -61,6 +61,13 @@ Let’s build something meaningful together.
 
 
 
+<div align="center">
 
+ GitHub Stats --> <img src="https://github-readme-stats-bareera.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight" alt="Bareera's GitHub Stats" width="48%"
+GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight" alt="GitHub Streak" width="48%" 
+
+ Top Languages --> <img src="https://github-readme-stats-bareera.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" 
+
+</div>
 
 
