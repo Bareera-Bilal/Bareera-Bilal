@@ -35,10 +35,10 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
  🧩 GitHub Profile Summary Card
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br>
 
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) <br>
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark) <br>
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
 ![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br>
 
 
@@ -46,8 +46,8 @@ Reach me at:"bareerabilal03@gmail.com" <br>
 
 
 
-📈 GitHub Contribution Graph
-
+📈 GitHub Contribution Graph <br>
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) 
 
 
 
