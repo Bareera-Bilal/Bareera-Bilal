@@ -29,19 +29,32 @@ Reach me at:"bareerabilal03@gmail.com"
 
 
 📊 GitHub Stats
+
+
 ![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=tokyonight)
 
 
+
 🔥 GitHub Streak Stats
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bareera-Bilal&theme=tokyonight)
 
 
+
 📈 GitHub Contribution Graph
+
+
 [![Bareera's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=tokyonight)](https://github.com/Bareera-Bilal)
 
 
+
 🛠️ GitHub Profile Trophy
+
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7)
+
+
 
 
 🌐 Connect with Me
