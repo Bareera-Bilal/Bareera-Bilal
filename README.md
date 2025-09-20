@@ -59,8 +59,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 🌐 Connect with Me <br> <br>
 
-- 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br>
-- 📧 Email: bareerabilal03@gmail.com  <br>
+- 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br> <br>
+- 📧 Email: bareerabilal03@gmail.com  <br> <br>
 - 💼 [LinkedIn](https://www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
 
 
