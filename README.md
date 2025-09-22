@@ -35,13 +35,9 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 
-
-
-
-
- 🧩📈 GitHub Profile Summary Card  
-<br> <br>
+🧩📈 GitHub Profile Summary Card  <br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
+
 
 🛠️ Skills Overview <br> <br>
 | Category       | Technologies & Tools                                                                 |
