@@ -97,6 +97,7 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
+![Metrics](https://raw.githubusercontent.com/Bareera-Bilal/Bareera-Bilal/main/github-metrics.svg)
 
 
 
