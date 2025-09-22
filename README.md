@@ -1,4 +1,4 @@
-<H1> ## HELLO WORLD...! THIS IS BAREERA BILAL </H1>
+<H1> HELLO WORLD...! THIS IS BAREERA BILAL </H1>
 
 
 A passionate FULL-STACK WEB DEVELOPER and SOFTWARE DEVELOPER from Srinagar, Jammu & Kashmir.  <br>
@@ -38,11 +38,16 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 
-🧩📈 GitHub Profile Summary Card  <br> <br>
+<H2>🧩📈 GitHub Profile Summary Card </H2> 
+
+<br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 
-🛠️ Skills Overview <br> <br>
+
+<H2>🛠️ Skills Overview </H2>
+
+<br> <br>
 | Category       | Technologies & Tools                                                                 |
 |----------------|--------------------------------------------------------------------------------------|
 | Frontend       | HTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Bootstrap                     |
