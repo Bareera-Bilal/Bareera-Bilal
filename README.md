@@ -58,11 +58,16 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark)   <br>
  
 
-<H2>GitHub Stats </H2>
+<h2> GitHub Stats </h2>
+
+
+<br> <br>
 ![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=github_dark&count_private=true)   
 
 
 <H2> MOST USED LANGUAGES </H2>
+
+
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark)  
 
 <br> <br> <br>
@@ -70,6 +75,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 <H2> 🛠️ GitHub Profile Trophy </H2>
+
+
 <br> <br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br> <br>
 
