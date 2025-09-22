@@ -68,10 +68,9 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 <H1> MOST USED LANGUAGES </H1>
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark)    <br> 
-         
-![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark)  
 
+<br> <br> <br>
 
 
 
