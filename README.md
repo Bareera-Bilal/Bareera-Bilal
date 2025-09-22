@@ -48,6 +48,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <H2>🛠️ Skills Overview </H2>
 
 <br> <br>
+
+
 | Category       | Technologies & Tools                                                                 |
 |----------------|--------------------------------------------------------------------------------------|
 | Frontend       | HTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Bootstrap                     |
@@ -60,20 +62,23 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <br> <br> <br> 
 
 
+
 <H2> 📊 GitHub Contribution Graph </H2>
 <br> <br>
 
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark)   <br>
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark)   <br> <br> <br>
  
 
 <h2> GitHub Stats </h2>
 
 
 <br> <br>
-![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=github_dark&count_private=true)   
+![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=github_dark&count_private=true)   <br> <br> <br>
+
 
 
 <H2> MOST USED LANGUAGES </H2>
+<br> <br> 
 
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark)  
