@@ -93,9 +93,9 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <br> <br> 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&column=3" />
-</p>
+<div align="center" style="border: 2px solid white; padding: 15px; border-radius: 12px; box-shadow: 0 0 12px white; display: inline-block;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
+</div>
 
 
 
