@@ -58,7 +58,7 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 ![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark_border=true)
 
 <br><br><br>
 
