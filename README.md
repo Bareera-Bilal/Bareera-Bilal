@@ -60,7 +60,6 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bareera-Bilal&theme=github_dark)
 
-
 ![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 
