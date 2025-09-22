@@ -53,16 +53,16 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 | Learning       | Restful APIs, JWT, OAuth                                 |
 
 
-<br> <br> <br> 📊 GitHub Contribution Graph <br> <br>
+<br> <br> <br> 
+
+
+📊 GitHub Contribution Graph <br> <br>
+
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark) 
-
-
 
 ![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=github_dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark)
-
-
 
 ![Star Count](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
