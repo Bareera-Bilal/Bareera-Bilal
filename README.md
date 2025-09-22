@@ -100,11 +100,9 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <br> <br> <br>
 
 
-## 🌆 My GitHub Skyline
+## 🐍 Contribution Heatmap
 
-[![GitHub Skyline](https://skyline.github.com/Bareera-Bilal/2025)](https://skyline.github.com/Bareera-Bilal/2025)
-
-
+![GitHub Snake](https://github.com/Bareera-Bilal/Bareera-Bilal/blob/output/github-contribution-grid-snake.svg)
 
 
 <H3> 🌐 Connect with Me  </H3>
