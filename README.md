@@ -95,12 +95,12 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
+<br> <br> <br>
 
 
 
 
-
-<H3> 🌐 Connect with Me </H3>
+<H3> 🌐 Connect with Me  </H3>
 <br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br> 
