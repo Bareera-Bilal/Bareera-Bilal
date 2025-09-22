@@ -99,13 +99,6 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 <br> <br> <br>
 
-## 🐍 Contribution Heatmap
-
-![GitHub Snake](https://github.com/Bareera-Bilal/Bareera-Bilal/blob/output/github-contribution-grid-snake.svg)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BareeraBilal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bareerabilal03)
 
 
 
