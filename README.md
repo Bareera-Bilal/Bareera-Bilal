@@ -1,4 +1,4 @@
-<H1> ## HELLO WORLD...! THIS IS BAREERA BILAL </H1>
+<H1> HELLO WORLD...! THIS IS BAREERA BILAL </H1>
 
 
 A passionate FULL-STACK WEB DEVELOPER and SOFTWARE DEVELOPER from Srinagar, Jammu & Kashmir.  <br>
@@ -10,7 +10,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 
-💻 Tech Stack <br> <br>
+<H2> 💻 Tech Stack </H2>
+<br> <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -40,7 +41,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 
-🧩📈 GitHub Profile Summary Card <br> <br>
+<H2> 🧩📈 GitHub Profile Summary Card  </H2>
+<br> <br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bareera-Bilal&theme=github_dark) <br> <br> <br>
 
 🛠️ Skills Overview <br> <br>
@@ -56,31 +58,32 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <br> <br> <br> 
 
 
-📊 GitHub Contribution Graph <br> <br>
+<H2> 📊 GitHub Contribution Graph </H2>
+<br> <br>
 
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bareera-Bilal&theme=github_dark)   <br>
  
 
-<H1>GitHub Stats </H1>
-
-
+<H2>GitHub Stats </H2>
 ![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bareera-Bilal&show_icons=true&theme=github_dark&count_private=true)   
 
-<H1> MOST USED LANGUAGES </H1>
 
+<H2> MOST USED LANGUAGES </H2>
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bareera-Bilal&layout=compact&theme=github_dark)  
 
 <br> <br> <br>
 
 
 
-🛠️ GitHub Profile Trophy <br> <br>
+<H2> 🛠️ GitHub Profile Trophy </H2>
+<br> <br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br> <br>
 
 
 
 
-🌐 Connect with Me <br> <br>
+<H3> 🌐 Connect with Me </H3>
+<br> <br>
 
 - 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br> <br>
 - 📧 Email: bareerabilal03@gmail.com  <br> <br>
