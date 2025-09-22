@@ -10,7 +10,10 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 
-💻 Tech Stack  <br> <br>
+<H2>💻 Tech Stack </H2> 
+
+
+<br> <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -86,8 +89,8 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <H3> 🌐 Connect with Me </H3>
 <br> <br>
 
-- 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br> <br>
-- 📧 Email: bareerabilal03@gmail.com  <br> <br>
+- 💼 [Portfolio Website](https://github.com/Bareera-Bilal/Personal-Portfolio-Website)  <br> 
+- 📧 Email: bareerabilal03@gmail.com  <br> 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bareera-bilal03) <br> <br> <br>
 
 
