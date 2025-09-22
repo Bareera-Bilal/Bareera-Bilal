@@ -7,6 +7,21 @@ I enjoy building responsive, scalable web applications with a focus on clean log
 CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
+
+
+## 📊 GitHub Stats
+
+![Bareera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BareeraUsername&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BareeraUsername&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BareeraUsername&theme=dark&hide_border=true)
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BareeraUsername&theme=github_dark)
+
+
+
+
 💻 Tech Stack <br> <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
