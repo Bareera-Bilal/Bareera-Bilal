@@ -100,26 +100,9 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 <br> <br> <br>
 
 
-<h2 align="center">🏆 My Highlights</h2>
-<br> <br>
-<table align="center">
-  <tr>
-    <td align="center" style="border: 2px solid white; padding: 10px; border-radius: 10px;">
-      <h3>🌟 First Star</h3>
-      <p>2 Stars Earned</p>
-    </td>
-    <td align="center" style="border: 2px solid white; padding: 10px; border-radius: 10px;">
-      <h3>📦 First Repo</h3>
-      <p>7 Repositories</p>
-    </td>
-    <td align="center" style="border: 2px solid white; padding: 10px; border-radius: 10px;">
-      <h3>🧠 Middle Committer</h3>
-      <p>93 Commits</p>
-    </td>
-  </tr>
-</table>
+## 🌆 My GitHub Skyline
 
-<br> <br> < br>
+[![GitHub Skyline](https://skyline.github.com/Bareera-Bilal/2025)](https://skyline.github.com/Bareera-Bilal/2025)
 
 
 
