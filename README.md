@@ -91,7 +91,6 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
 <br> <br>
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=tokyonight&row=1&column=7) <br><br> <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bareera-Bilal&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
 </p>
