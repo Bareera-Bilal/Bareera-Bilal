@@ -1,9 +1,9 @@
 <H1> HELLO WORLD...! THIS IS BAREERA BILAL </H1>
 
 
-A passionate FULL-STACK WEB DEVELOPER and SOFTWARE DEVELOPER from Srinagar, Jammu & Kashmir.  <br>
+A visionary Full-Stack Web Developer and Software Engineer from Srinagar, Jammu & Kashmir—driven by passion, precision, and purpose.  <br>
 Currently pursuing "Bachelor of Computer Applications" and "Diploma in Software Engineering". <br>
-I enjoy building responsive, scalable web applications with a focus on clean logic and sleek design. <br>  <br>
+I thrive on crafting responsive, scalable web applications—where clean logic meets sleek, intuitive design. <br>  <br>
 CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 
 
