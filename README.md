@@ -37,6 +37,9 @@ CONNECT WITH ME : bareerabilal03@gmail.com <br> <br> <br>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Flippa](https://img.shields.io/badge/Flippa-00B2FF?style=for-the-badge&logo=flippa&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-FFDD00?style=for-the-badge&logo=emailjs&logoColor=black)
+
 <br><br><br>
 
 
