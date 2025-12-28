@@ -4,8 +4,8 @@
 A visionary Full-Stack Web Developer and Software Engineer from Srinagar, Jammu & Kashmir—driven by passion, precision, and purpose.  <br>
 Currently pursuing "Bachelor of Computer Applications" and "Diploma in Software Engineering". <br>
 I thrive on crafting responsive, scalable web applications—where clean logic meets sleek, intuitive design. <br>  <br>
-CONNECT WITH ME : bareerabilal03@gmail.com <br> 
-PORTFOLIO : https://bareerabilal.vercel.app/<br> <br>
+PORTFOLIO : https://bareerabilal.vercel.app/<br> 
+CONNECT WITH ME : bareerabilal03@gmail.com <br> <br>
 
 
 
